@@ -3,18 +3,18 @@ one click to make your own http
 
 # how to use
 
-first clone the repositories
+first clone the repositories:
 
         git clone https://github.com/NimBahaIR/http.git
         
-then go to the http directory
+then go to the http directory:
 
         cd http
         
-now 
+now:
         chmod 775 run.sh
         
-run the .sh file to start
+run the .sh file to start:
 
         bash run.sh
         
