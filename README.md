@@ -1,5 +1,4 @@
-# http
-one click to make your own http
+# http one click
 
 # how to use
 
