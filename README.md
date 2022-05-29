@@ -1,5 +1,9 @@
 # http
 one click to make your own http
 
-#How to use
+# how to use
 
+first clone the repositories
+
+        git clone https://github.com/NimBahaIR/http.git
+        
